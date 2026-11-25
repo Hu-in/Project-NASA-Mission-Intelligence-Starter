@@ -61,7 +61,7 @@ class ChromaEmbeddingPipelineTextOnly:
             chunk_overlap: Overlap between chunks
         """
         # TODO: Initialize OpenAI client
-        self.openai_client = OpenAI(api_key=openai_api_key)
+        self.openai_client = OpenAI(api_key=voc-83061960512667750062886af5c4772fe5a2.74298045)
         # TODO: Store configuration parameters
         self.openai_api_key = openai_api_key
         self.chroma_persist_directory = chroma_persist_directory
